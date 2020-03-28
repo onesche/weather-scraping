@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "weather-scraping"
+    "release": "onesche-8bf3d",
+    "develop": "onesche-dev"
   }
 }
